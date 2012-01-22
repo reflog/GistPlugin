@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GistPlugin", "GistPlugin\GistPlugin.csproj", "{98C201BC-C92B-425F-BEEE-F7A7C7D4BDF4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{01419F5C-BBAB-474A-A08D-F11A5C46E3A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C201BC-C92B-425F-BEEE-F7A7C7D4BDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C201BC-C92B-425F-BEEE-F7A7C7D4BDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C201BC-C92B-425F-BEEE-F7A7C7D4BDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C201BC-C92B-425F-BEEE-F7A7C7D4BDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01419F5C-BBAB-474A-A08D-F11A5C46E3A5}.Debug|Any CPU.ActiveCfg = Debug
+		{01419F5C-BBAB-474A-A08D-F11A5C46E3A5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
